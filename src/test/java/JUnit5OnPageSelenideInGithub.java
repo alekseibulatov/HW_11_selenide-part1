@@ -13,7 +13,7 @@ import static com.codeborne.selenide.Selenide.*;
 
 public class JUnit5OnPageSelenideInGithub {
     @Test
-    void FindJUnit5OnPageSelenideInGithub() {
+    void findJUnit5OnPageSelenideInGithub() {
         // Откройте страницу Selenide в Github
         open("https://github.com/selenide/selenide");
         // Перейдите в раздел Wiki проекта
